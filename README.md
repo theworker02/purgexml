@@ -1,0 +1,24 @@
+# purgexml
+
+Purge and reshape xml text streams with deterministic transforms.
+
+**Site:** https://theworker02.github.io/purgexml/
+
+## Install / run
+
+```bash
+git clone https://github.com/theworker02/purgexml.git
+cd purgexml
+node src/cli.js
+node --test
+```
+
+## API
+
+Library entrypoint: [`src/index.js`](./src/index.js)
+
+Category: `text` · Version `1.0.0`
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
